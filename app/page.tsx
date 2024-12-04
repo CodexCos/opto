@@ -6,6 +6,7 @@ import React from 'react';
 function Page() {
   return (
     <div className="p-4">
+      WOW
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 h-screen">
         <div className="w-full h-full">
           <Image
