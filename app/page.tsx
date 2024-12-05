@@ -17,6 +17,7 @@ function Page() {
             priority={true}
             className="object-cover w-full h-full"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
         <div className="w-full h-full">
@@ -29,6 +30,7 @@ function Page() {
             priority={true}
             className="object-cover w-full h-full"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
         <div className="w-full h-full">
@@ -40,6 +42,7 @@ function Page() {
             quality={50}
             priority={true}
             className="object-cover w-full h-full"
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
         <div className="w-full h-full">
@@ -52,6 +55,7 @@ function Page() {
             priority={true}
             className="object-cover w-full h-full"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
         <div className="w-full h-full">
@@ -64,6 +68,7 @@ function Page() {
             priority={true}
             className="object-cover w-full h-full"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
       </div>
@@ -78,6 +83,7 @@ function Page() {
             className="object-cover w-full h-full"
             loading="lazy"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
         <div className="w-full h-auto">
@@ -89,6 +95,7 @@ function Page() {
             className="object-cover w-full h-full"
             loading="lazy"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
         <div className="w-full h-auto">
@@ -100,6 +107,7 @@ function Page() {
             className="object-cover w-full h-full"
             loading="lazy"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
         <div className="w-full h-auto">
@@ -111,6 +119,7 @@ function Page() {
             className="object-cover w-full h-full"
             loading="lazy"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
         <div className="w-full h-auto">
@@ -122,6 +131,7 @@ function Page() {
             className="object-cover w-full h-full"
             loading="lazy"
             placeholder='blur'
+            sizes="(max-width: 640px) 100vw, (max-width: 768px) 50vw, 33vw"
           />
         </div>
       </div>
