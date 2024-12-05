@@ -16,6 +16,7 @@ function Page() {
             alt={`Image ${index + 1}`} 
             width={300}
             height={200} 
+            loading='lazy'
           />
         </div>
       ))}
