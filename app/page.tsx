@@ -17,6 +17,7 @@ function Page() {
             quality={50}
             priority={true}
             className="object-cover w-full h-full"
+            placeholder='blur'
           />
         </div>
         <div className="w-full h-full">
