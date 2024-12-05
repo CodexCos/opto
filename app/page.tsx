@@ -8,7 +8,7 @@ function Page() {
   const imageNames = Array.from({ length: 20 }, (_, index) => `img${index + 1}.jpg`);
 
   return (
-    <div className="p-4 grid grid-cols-4 gap-4">
+    <div className="p-4 ">
       {imageNames.map((imageName, index) => (
         <div key={index}>
           <Image 
